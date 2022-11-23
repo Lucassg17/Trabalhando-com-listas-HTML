@@ -1,9 +1,4 @@
-<h1> Sistema de cadastro de jogos </h1>
+<h1> Projeto Teste </h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-Para rodar o projeto em sua máquina, digite:
-
-```
-npm install react
-```
